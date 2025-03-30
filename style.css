@@ -204,7 +204,7 @@ header {
 }
 
 .heading h2 {
-    color: white;
+    color: var(--text-color);
     font-size: 1.8rem;
     text-transform: uppercase;
 }
